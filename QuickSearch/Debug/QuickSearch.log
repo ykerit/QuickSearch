@@ -1,0 +1,3 @@
+﻿  quicksearch.cpp
+sqlite3.lib(sqlite3.obj) : warning LNK4099: 未找到 PDB“?稛?稙?ε”(使用“sqlite3.lib(sqlite3.obj)”或在“?稛?稙?ε”中寻找)；正在链接对象，如同没有调试信息一样
+  QuickSearch.vcxproj -> C:\Users\some yuan\Desktop\workspace\QuickSearch\Debug\QuickSearch.exe
